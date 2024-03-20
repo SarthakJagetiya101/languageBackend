@@ -1,27 +1,27 @@
 {
   "development": {
-    "username": "sql6689445",
-    "password": "BkxjYDFqIv",
-    "database": "sql6689445",
-    "host": "sql6.freesqldatabase.com",
+    "username": "sarthak",
+    "password": "SarthakJagetiya1001",
+    "database": "language",
+    "host": "stakeholders.cjwiusk8qcfu.us-east-1.rds.amazonaws.com",
     "port": "3306",
     "dialect": "mysql",
     "logging": false
   },
   "test": {
-    "username": "sql6689445",
-    "password": "BkxjYDFqIv",
-    "database": "sql6689445",
-    "host": "sql6.freesqldatabase.com",
+    "username": "sarthak",
+    "password": "SarthakJagetiya1001",
+    "database": "language",
+    "host": "stakeholders.cjwiusk8qcfu.us-east-1.rds.amazonaws.com",
     "port": "3306",
     "dialect": "mysql",
     "logging": false
   },
   "production": {
-    "username": "sql6689445",
-    "password": "BkxjYDFqIv",
-    "database": "sql6689445",
-    "host": "sql6.freesqldatabase.com",
+    "username": "sarthak",
+    "password": "SarthakJagetiya1001",
+    "database": "language",
+    "host": "stakeholders.cjwiusk8qcfu.us-east-1.rds.amazonaws.com",
     "port": "3306",
     "dialect": "mysql",
     "logging": false
